@@ -15,7 +15,7 @@ int main()
     {
         printf("%d\n", x);
     }
-    if (x = 0)
+    if (x == 0)
     {
         printf("\nPasko na! Yehey!!!");
     }
