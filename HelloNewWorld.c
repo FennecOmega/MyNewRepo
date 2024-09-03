@@ -2,5 +2,10 @@
 
 int main()
 {
-    printf("Hello World!");
+
+    char username[20];
+    printf("Input your username: ");
+    scanf("%s", username);
+    printf("\n\nHello %s!", username);
+    printf("\nHello World!");
 }
