@@ -8,4 +8,15 @@ int main()
     scanf("%s", username);
     printf("\n\nHello %s!", username);
     printf("\nHello World!");
+
+    int x = 5;
+    printf("\n\nCountdown to Pasko...\n");
+    for (; x > 0; x--)
+    {
+        printf("%d\n", x);
+    }
+    if (x = 0)
+    {
+        printf("\nPasko na! Yehey!!!");
+    }
 }
