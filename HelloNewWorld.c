@@ -19,4 +19,6 @@ int main()
     {
         printf("\nPasko na! Yehey!!!");
     }
+
+    return 0;
 }
