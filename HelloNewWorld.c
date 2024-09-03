@@ -10,7 +10,7 @@ int main()
     printf("\nHello World!");
 
     int x = 5;
-    printf("Countdown to Pasko...\n");
+    printf("\n\nCountdown to Pasko...\n");
     for (; x > 0; x--)
     {
         printf("%d\n", x);
