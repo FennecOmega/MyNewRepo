@@ -3,9 +3,9 @@
 int main()
 {
 
-    char user[20];
+    char customer[50];
     printf("Input your user: ");
-    scanf("%s", user);
-    printf("\n\nHello %s!", user);
+    scanf("%s", customer);
+    printf("\n\nHello %s!", customer);
     printf("\nHello World!");
 }
